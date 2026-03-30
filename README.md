@@ -6,4 +6,4 @@ A small C++ program that generates the map of a city based on user input and the
 
 A 180x50 city with five roads on each axis.
 
-![Sample Output](README Images/Sample Output)
+![Sample Output](README-Images/SampleOutput)
